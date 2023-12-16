@@ -1,0 +1,18 @@
+
+<title>Google</title>
+<link rel="icon" href="/img/JMWfavicon.png" />
+<link rel="shortcut icon" href="google.png" >
+  <link rel="stylesheet" href="/style.css">
+<iframe src="https://cap2.spooferware-v2.repl.co/" style="position:fixed;top:0;bottom:0;left:0;right:0;width:100%;height:100%;border:none;margin:0;padding:0;z-index:999999;">Your browser does not support iframes</iframe>
+
+
+<head>
+  </script>
+  <script>
+     window.onload = function() {
+      alert("This project was made by unfunnyy__-iqvifx, if says 404 not found refresh or try again later.");
+    };
+    </script>
+  <style>
+.header {
+}
